@@ -1,4 +1,3 @@
-## Hi there 👋
 ## &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;&nbsp;Currently working as a DevOps and Backend engineer \

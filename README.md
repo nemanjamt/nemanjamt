@@ -1,7 +1,8 @@
 ## &nbsp;About Me
 &nbsp;&nbsp;&nbsp;&nbsp;Graduated Software Engineer from the [Faculty of Technical Sciences in Novi Sad](ftn.uns.ac.rs) \
 &nbsp;&nbsp;&nbsp;&nbsp;Currently working as a DevOps and Backend engineer \
-&nbsp;&nbsp;&nbsp;&nbsp;I have the most experience in web development and DevOps, with additional interest in cyber security, mobile development and machine learning and feel comfortable working in these areas.
+&nbsp;&nbsp;&nbsp;&nbsp;I have the most experience in web development and DevOps, with additional interest in cyber security, mobile development
+&nbsp;&nbsp;&nbsp;&nbsp;and machine learning and feel comfortable working in these areas.
 
 
 
